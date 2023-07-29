@@ -1,4 +1,4 @@
-# conversor-de-moneda
+# Conversor-de-Moneda
   Este progrma permite al usuario seleccionar una opción y luego ingresar una cantidad a convertir. Después de ingresar la cantidad, se realizará la conversión correspondiente según la opción seleccionada y se mostrará el resultado.
 
 A continuación, se detalla el funcionamiento del código paso a paso:
